@@ -1,0 +1,2 @@
+D:/fprojects/basketball_counter/android/app/.cxx/Debug/n5t3n4y5/armeabi-v7a/CMakeFiles/edit_cache.dir
+D:/fprojects/basketball_counter/android/app/.cxx/Debug/n5t3n4y5/armeabi-v7a/CMakeFiles/rebuild_cache.dir
